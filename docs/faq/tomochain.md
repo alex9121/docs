@@ -58,7 +58,6 @@ No, it isn't. Tomochain has its own blockchain.
 ---
 
 #### What is the difference between Tomocoin and Tomochain?
-
 Tomocoin (TOMO) is token. Tomochain is an infrustructure.
 
 ---
@@ -96,5 +95,4 @@ Token voters should vote for Candidates who signal a strong support for TomoChai
 ---
 
 #### How will reward be divided? 
-
 The reward achieved by each Masternode  will be divided into three portions. The first portion of 40% called “Infrastructure Reward” goes to the Masternode. The second portion of 50% called “Staking Reward” goes to the pool of all voters  for that  Masternode which is shared proportionally based on the token  stake. The last portion of 10% called “Foundation Reward” goes to a special account controlled by the Masternode Foundation, which is run by TomoChain company initially. 
